@@ -1,4 +1,4 @@
-# RTESSu19_Labs [Summer-2019]
+# RTESSu19 [Summer-2019]
 
 This repository is fully owned by **Rushi James Macwan**. All content on this repository is solely the work of **Rushi James Macwan**. However, all external support and guidance taken in completing the work available on this repository has been clearly cited and credited as per the course guidelines.
 
